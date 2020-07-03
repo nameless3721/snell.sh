@@ -9,7 +9,7 @@
 Debian & Ubuntu 用户请运行
 
 ```
-wget --no-check-certificate -O snell.sh https://raw.githubusercontent.com/primovist/snell.sh/master/snell.sh
+wget --no-check-certificate -O snell.sh https://raw.githubusercontent.com/nameless3721/snell.sh/master/snell.sh
 chmod +x snell.sh
 ./snell.sh
 ```
